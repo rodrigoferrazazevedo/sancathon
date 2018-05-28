@@ -196,6 +196,25 @@ ul.nav.navbar-nav li.w3ls-navlog {
 	text-decoration:none;
 	outline: none;
 }
+.wthree-btn2 {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border: 1px solid rgb(10, 0, 0) ;
+    padding: .7em 1.5em;
+    color: rgb(110, 15, 15);
+    z-index: 9;
+    font-size: 1.3em;
+    outline: none;
+    font-family: 'Trochut', cursive;
+    letter-spacing: 1px;
+}
+.wthree-btn2:focus{
+	color: rgb(110, 15, 15);
+	text-decoration:none;
+	outline: none;
+}
+
 /*-- deals-effect --*/
 @-webkit-keyframes criss-cross-left {
   0% {
