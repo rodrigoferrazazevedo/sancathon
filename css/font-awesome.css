@@ -591,6 +591,9 @@
 .fa-linkedin-square:before {
   content: "\f08c";
 }
+.fa-user-graduate:before {
+  content: "\f501";
+}
 .fa-thumb-tack:before {
   content: "\f08d";
 }
@@ -803,6 +806,9 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
+}
+.fa-user-graduate:before {
+  content: "\f501";
 }
 .fa-rotate-left:before,
 .fa-undo:before {
